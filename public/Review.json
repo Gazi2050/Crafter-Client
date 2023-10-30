@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80",
+        "comment_title": "Outstanding Products and Exceptional Service",
+        "comment": "I recently purchased a product from Crafter, and I must say, it exceeded my expectations. The quality and performance are top-notch. But what really impressed me was their customer service. I had a few questions, and their support team was quick to respond and incredibly helpful. I highly recommend Crafter for their outstanding products and exceptional service",
+        "date": "October 9, 2023"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "img": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+        "comment_title": "Game-Changer for My Business",
+        "comment": "I've been using one of Crafter's tech products for a few months now, and it's been a game-changer for my business. The product's quality and performance have met my expectations. The only reason I'm not giving them a perfect score is because I wish they had a wider range of product options. Keep up the great work, Crafter!",
+        "date": "September 11, 2023"
+    },
+    {
+        "id": 3,
+        "name": "Eva Martinez",
+        "img": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1961&q=80",
+        "comment_title": "Go-To Brand for Innovative and Sustainable Tech Solutions",
+        "comment": "Crafter has become my go-to brand for tech solutions. Their products are not only sleek and stylish but also incredibly reliable. What's even more impressive is their commitment to sustainability. Knowing that I'm using eco-friendly tech products gives me peace of mind. I can't recommend Crafter enough.",
+        "date": "March 23, 2023"
+    },
+    {
+        "id": 4,
+        "name": "David Wilson",
+        "img": "https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "comment_title": "Responsive Customer Support and Great Products",
+        "comment": "I recently had a minor issue with one of Crafter's products, but their customer support team was quick to address it and provided a solution that left me satisfied. The product itself is great, and their dedication to customer service speaks volumes about the company. I appreciate their responsiveness and commitment to customer satisfaction.",
+        "date": "January 5, 2023"
+    }
+]
